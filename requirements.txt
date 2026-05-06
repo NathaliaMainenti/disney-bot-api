@@ -3,3 +3,5 @@ uvicorn
 pandas
 matplotlib
 seaborn
+flask
+gunicorn
